@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-06-27 04:09+0000\n"
+"PO-Revision-Date: 2026-06-28 13:00+0000\n"
 "Last-Translator: reducedradius <feixiang512@outlook.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://toolate.othing.xyz/"
 "projects/pixel-wheels/app/zh_Hans/>\n"
@@ -914,7 +914,7 @@ msgstr "自动调节"
 
 #: core/src/com/agateau/pixelwheels/screens/ConfigScreen.java:324
 msgid "Zoom:"
-msgstr ""
+msgstr "缩放："
 
 #: core/src/com/agateau/pixelwheels/screens/CreditsScreen.java:80
 msgid "Thank you for playing!"
